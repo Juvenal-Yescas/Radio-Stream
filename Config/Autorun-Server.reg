@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"Task"="\"C:\\Radio-Stream\\Config\\Autorun-task.bat\" /min"
+"Server Radio"="\"C:\\Radio-Stream\\start.bat\" /min"

@@ -1,0 +1,9 @@
+authtoken: <YOUR_AUTHTOKEN>
+region: us
+update: false
+tunnels:
+  radio:
+    proto: http
+    addr: 8000
+    inspect: false
+    bind_tls: true
